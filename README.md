@@ -25,7 +25,7 @@
 git clone https://github.com/Salam4ik666/CryptoBoard.git
 
 # 2. Перейди в папку проекта
-cd название-репозитория
+cd CryptoBoard
 
 # 3. Установи зависимости
 npm install
