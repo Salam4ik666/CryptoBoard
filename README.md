@@ -18,6 +18,10 @@
 - Chart.js
 - CSS
 
+## 🌐 Live Demo
+
+https://crypto-board-azure.vercel.app/
+
 ## 🛠️ Установка и запуск проекта
 
 ```bash
@@ -33,6 +37,5 @@ npm install
 # 4. Запусти проект
 npm run dev
 
-## 🌐 Live Demo
 
-https://crypto-board-azure.vercel.app/
+
