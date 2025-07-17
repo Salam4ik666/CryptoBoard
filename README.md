@@ -35,4 +35,4 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [Открыть демо](https://crypto-board-azure.vercel.app/)
+https://crypto-board-azure.vercel.app/
