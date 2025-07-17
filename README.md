@@ -32,3 +32,7 @@ npm install
 
 # 4. Запусти проект
 npm run dev
+
+## 🌐 Live Demo
+
+👉 [Открыть демо](https://crypto-board-azure.vercel.app/)
